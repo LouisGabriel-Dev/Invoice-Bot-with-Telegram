@@ -8,7 +8,11 @@ An AI-powered Invoice Data Extractor and Automation System built on self-hosted 
 
 ## 🎥 Video Demo
 
-![https://github.com/user-attachments/assets/c17136d8-1d7d-448a-b4cc-378ba90d7668](https://github.com/user-attachments/assets/c17136d8-1d7d-448a-b4cc-378ba90d7668)
+## 🎥 Video Demo
+
+![Video Demo](https://github.com/user-attachments/assets/c17136d-1d7d-448a-b4cc-378ba90d7668)
+
+---
 
 ---
 
