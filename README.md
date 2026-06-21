@@ -11,7 +11,7 @@ An AI-powered Invoice Data Extractor and Automation System built on self-hosted 
 
 ### ⚠️ The Problem
 Managing financial records manually from various suppliers or freelancers can be a major operational bottleneck:
-* **Manual Data Entry:** Spending hours copying invoice numbers, dates, and line items from PDFs/images into a company spreadsheet.
+* **Manual Data Entry:** Spending hours copying invoice numbers, dates, and line items from PDFs/docx into a company spreadsheet.
 * **Human Error:** High risk of typos, missed digits, or miscalculated totals during manual data entry.
 * **Delayed Bookkeeping:** Invoices get buried in chat histories or emails before they are logged, leading to inaccurate financial overviews.
 
