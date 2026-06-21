@@ -3,8 +3,8 @@
 An AI-powered Invoice Data Extractor and Automation System built on self-hosted infrastructure. This Telegram bot automatically processes incoming invoice documents (PDF/DOCX), extracts key financial information (Invoice Number, Date, Amount, Vendor, etc.) using AI, and instantly logs the structured data into Google Sheets for seamless expense tracking and bookkeeping.
 
 ## 🎥 Video Demo
-
 <img alt="WhatsAppVideo2026-06-21at08 24 34-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/b4c7a55f-6e72-47e7-b8b0-3bd5be3acc69"/>
+---
 ---
 
 ## 📝 Project Overview
